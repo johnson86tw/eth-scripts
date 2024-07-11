@@ -1,0 +1,17 @@
+{
+  "name": "eth-scripts",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {},
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.11",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.1"
+  }
+}
